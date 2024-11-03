@@ -29,7 +29,7 @@
     <meta name="twitter:image" content="https://framerusercontent.com/images/YOZXWmpUB1e5kjUtNcJ0fO4XfWg.png">
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V67L4W3269"></script>
+    <script async src="https://www.googletagmanager. com/gtag/js?id=G-V67L4W3269"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){window.dataLayer.push(arguments);}
