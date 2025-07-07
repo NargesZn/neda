@@ -5,7 +5,6 @@
     <link href="https://framerusercontent.com/images/WIlhglkiRHYZY3qc6CmQy5bbCM.png" rel="icon" media="(prefers-color-scheme: light)">
     <link href="https://framerusercontent.com/images/WIlhglkiRHYZY3qc6CmQy5bbCM.png" rel="icon" media="(prefers-color-scheme: dark)">
     <!-- Open Graph / Facebook -->
-
     <meta property="og:type" content="website">
     <meta property="og:title" content="Artela">
     <meta property="og:description" content="Artela offers a single, universal framework to extend the functionality of blockchain applications by the addition of chain-native modules.">
